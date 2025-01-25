@@ -84,11 +84,7 @@ const WelcomePage = () => {
         </div>
       </div>
 
-      <div className="pb-5 mt-4">
-        <div className="text-gray-700 text-sm font-semibold flex justify-center">
-          Copyright © 2024 by Kavinda Deshan, All rights reserved.
-        </div>
-        <div className="text-white text-md flex justify-center">Designed by Kavinda</div>
+      
       </div>
     </div>
   );
